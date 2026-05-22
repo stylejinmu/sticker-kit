@@ -1,6 +1,6 @@
 # sticker-kit
 
-> For English documentation, see [README.md](README.md)
+[English](README.md) | **简体中文**
 
 用于生成符合微信开放平台官方规范的表情包合辑素材，涵盖表情图、横幅图、封面图、图标、赞赏引导图和赞赏致谢图六类资产，以及配套的合辑文案（合辑名称、合辑介绍、赞赏引导语、每张表情的含义词）。
 

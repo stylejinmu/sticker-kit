@@ -1,6 +1,6 @@
 # sticker-kit
 
-> 中文文档请见 [README_CN.md](README_CN.md)
+**English** | [简体中文](README_CN.md)
 
 A skill for generating WeChat sticker pack assets that comply with the official WeChat Open Platform specifications. It covers all required asset types — sticker images, banner, cover, icon, appreciation guide, and appreciation thank-you — as well as the accompanying copywriting (pack name, description, appreciation prompt, and per-sticker labels).
 
